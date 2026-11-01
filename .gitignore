@@ -1,0 +1,16 @@
+# build and run output
+/build/
+/run/
+/logs/
+/local-only/
+*.rom
+*.bin
+*.elf
+*.o
+*.a
+*.map
+*.dump
+*.img
+*.tar.gz
+# editing backups (files named like probe.c.g4-pre); does not match source directories g3pre/ g4pre/
+*-pre
